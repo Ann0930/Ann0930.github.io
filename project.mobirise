@@ -740,7 +740,7 @@
               "background-image": "url(@bg-value)"
             },
             ".mbr-section-subtitle": {
-              "color": "#879a9f",
+              "color": "#ffffff",
               "text-align": "center",
               "font-weight": "300"
             },
@@ -878,7 +878,7 @@
               "background-image": "url(@bg-value)"
             },
             ".mbr-section-subtitle": {
-              "color": "#767676",
+              "color": "#ffffff",
               "font-weight": "300"
             },
             ".mbr-content-text": {
@@ -906,6 +906,9 @@
             },
             ".img-text": {
               "color": "#c1c1c1"
+            },
+            ".mbr-section-title": {
+              "color": "#9f9883"
             }
           },
           "_name": "counters6",
